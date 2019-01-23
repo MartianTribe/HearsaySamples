@@ -15,7 +15,7 @@ This section describes the onboarding process to enable customers to use the Hea
 
 ---
 
-##Integration Process
+## Integration Process
 
 ### Import The Hearsay Managed Solution into Microsoft Dynamics 365
 
