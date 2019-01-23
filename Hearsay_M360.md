@@ -11,7 +11,7 @@ This section describes the onboarding process to enable customers to use the Hea
 ## Prerequisites
 
 • Hearsay Managed Solution Packet  
-• Microsoft Dynamics 365
+• [Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/?&OCID=AID720979_SEM_WtytagvD&utm_source=Google&utm_medium=CPC&utm_term=microsoft%20dynamics%20365&utm_campaign=Dynamics&lnkd=Google_D365_Brand&gclid=Cj0KCQiAvqDiBRDAARIsADWh5Tetf-blkVt2_nAMkqbKBMqNEjt1skz98yHE3Q7aWuVevR74XaCI7xAaAtm1EALw_wcB)
 
 ---
 
