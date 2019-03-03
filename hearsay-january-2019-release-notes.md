@@ -161,39 +161,13 @@ Q: What is the order if a workspace has multiple campaigns?
 ### Screenshots
  
 #### Campaign action card view - Desktop
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/2939a44-subscribe1.png",
-        "subscribe1.png",
-        1978,
-        1216,
-        "#f1f1f1"
-      ]
-    }
-  ]
-}
-[/block]
+
+<img src="images/release-notes/01_2019/subscribe1.png" width=50% height=50% align="center">
+
 #### Full Desktop view
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/d3a7e77-subscribe2.png",
-        "subscribe2.png",
-        1280,
-        1423,
-        "#f3edee"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/subscribe2.png" width=50% height=50% align="center">
 ---
 
 ## Social: 1-to-1 Outreach - Onboarding Improvements
@@ -221,42 +195,15 @@ Q: What is the order if a workspace has multiple campaigns?
 
 Users new to **1-to-1 Outreach** will see a landing page that describes and demos in a 2-minute video how to use **1-to-1 Outreach**.
 
+<img src="images/release-notes/01_2019/1-1onboarding1.jpeg" width=50% height=50% align="center">
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/ced1cbd-1-1onboarding1.jpeg",
-        "1-1onboarding1.jpeg",
-        1042,
-        579,
-        "#e7ecf0"
-      ]
-    }
-  ]
-}
-[/block]
 To help users setup their account, Hearsay will pre-fill users’ reply-to email address and email display name according to their Hearsay information. Users can make modifications to this information, or simply click **Start Now** to proceed.
 
 Users will be sent a verification email to verify that they have access to the email inbox they have elected to ensure that they receive email replies.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/56805fa-1-1onboarding2.png",
-        "1-1onboarding2.png",
-        695,
-        373,
-        "#f9fafb"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/1-1onboarding2.jpeg" width=50% height=50% align="center">
+
 *To proceed to the next step, users must click the verification link in the email that they receive.*
 
 Users can also resend the verification email, or go back and change their reply-to email address or display name.
@@ -264,21 +211,9 @@ Users can also resend the verification email, or go back and change their reply-
 ### Step 2: Email Signature Setup
 
 Once users have verified their reply-to email address, they will be directed to Step 2 to add an email signature.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/0ef0e2d-1-1onboarding3.jpeg",
-        "1-1onboarding3.jpeg",
-        1571,
-        822,
-        "#f9fafa"
-      ]
-    }
-  ]
-}
-[/block]
+
+<img src="images/release-notes/01_2019/1-1onboarding3.jpeg" width=50% height=50% align="center">
+
 This text box accepts simple rich text formatting as shown. Email signatures append to the bottom of all **Hearsay** outbound emails.
 
 While **Hearsay** provides a sample signature, we encourage that you train users on your organization’s email signature policy or recommend that they copy and paste their existing signature from **Outlook** or **Lotus Notes**.
@@ -292,21 +227,8 @@ Users are prompted to add up to 10 contacts to send their first email. These con
 To encourage users to enter contacts, we allow them to select from email templates across three topic areas that have tested well with our advisor base - *Ask for Referral*, *Great Meeting You*, and *Client Appreciation*.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/ba42649-1-1onboarding4.png",
-        "1-1onboarding4.png",
-        1210,
-        572,
-        "#f7f7f7"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/1-1onboarding4.png" width=50% height=50% align="center">
+
 Users cannot modify these templates. These are **Hearsay’s** default email templates and the messaging can be updated by your organization (see enablement section below).
 
 If users wish to skip adding contacts, they can select **Skip** and we will send users an email to show them what it looks like.
@@ -314,21 +236,8 @@ If users wish to skip adding contacts, they can select **Skip** and we will send
   * Users who **Send Email** or **Skip** will see a congratulations pop-up and land in the **1-to-1 Outreach** home page to do further exploration.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/dd127a0-1-1onboarding5.jpeg",
-        "1-1onboarding5.jpeg",
-        528,
-        451,
-        "#dbdcde"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/1-1onboarding5.jpeg" width=50% height=50% align="center">
+
 ### Permalink
 
 We are launching a permalink for **1-to-1 Outreach** to assist you in promoting this feature. This link allows you to link advisors directly to **1-to-1 Outreach** in **Hearsay**.
@@ -383,198 +292,54 @@ With the addition of **Relative Email Campaigns** to **Hearsay’s** existing **
 Admins can manage both types of email campaigns (relative and dynamic) in the same place:
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/ea63764-campaign1.png",
-        "campaign1.png",
-        1199,
-        406,
-        "#e9e9ea"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign1.png" width=50% height=50% align="center">
+
 When creating a new email campaign, admins can choose which type of campaign to run and enter campaign details that advisors will see when viewing campaigns.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/af6b499-campaign2.png",
-        "campaign2.png",
-        449,
-        275,
-        "#e8e8e8"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign2.png" width=50% height=50% align="center">
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/128dd63-campaign3.png",
-        "campaign3.png",
-        651,
-        521,
-        "#e2e2e3"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign3.png" width=50% height=50% align="center">
+
 Once the email campaign is created, it launches into draft mode, whereupon admins can begin composing emails.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/678893e-campaign6.png",
-        "campaign6.png",
-        1176,
-        600,
-        "#efe0e2"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign6.png" width=50% height=50% align="center">
+
 Emails can be scheduled to go out immediately upon subscription, or at a future relative date and time. The time zone will be calculated locally to the advisor's workspace.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/f3475b4-campaign.png",
-        "campaign.png",
-        1199,
-        612,
-        "#d9dcdb"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign.png" width=50% height=50% align="center">
+
 Admins can activate the campaign when ready. All draft emails must be removed, and scheduled emails will go live.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/1ca1dc0-campaing9.png",
-        "campaing9.png",
-        643,
-        200,
-        "#c1c3c5"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign9.png" width=50% height=50% align="center">
+
 After a campaign goes live, if something changes unexpectedly or there is an error discovered, admins can modify the content (but not the timing) of a live campaign email. This modification applies only to campaign subscribers who have not yet received that email.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/e26d5dc-campaign8_1.png",
-        "campaign8 (1).png",
-        1219,
-        547,
-        "#f1efed"
-      ]
-    }
-  ]
-}
-[/block]
+
+<img src="images/release-notes/01_2019/campaign8.png" width=50% height=50% align="center">
+
 Admins can expire the entire campaign, which removes the campaign from user purview and thus from new subscriptions. Emails will finish sending for the remaining recipients. Once a campaign is expired, no further actions on the campaign can be taken.
 
+<img src="images/release-notes/01_2019/campaign7.png" width=50% height=50% align="center">
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/dc13ed7-campaign7.png",
-        "campaign7.png",
-        630,
-        197,
-        "#d9d6d5"
-      ]
-    }
-  ]
-}
-[/block]
 ### Campaign Subscription
 Advisors can see live campaigns in their available campaign list on the desktop dashboard.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/0890401-campaign5.png",
-        "campaign5.png",
-        941,
-        535,
-        "#edeeef"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign5.png" width=50% height=50% align="center">
+
 Advisors can see what emails are scheduled to go out when, relative to subscription date.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/08c7ec4-campaign6.png",
-        "campaign6.png",
-        1176,
-        600,
-        "#efe0e2"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign6.png" width=50% height=50% align="center">
+
 Advisors will be able to subscribe their contacts with email addresses to active campaigns.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/4e01e96-campaign4.png",
-        "campaign4.png",
-        941,
-        556,
-        "#e6e8ea"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/campaign4.png" width=50% height=50% align="center">
+
 ### How to enable?
 **Relative Email Campaigns** is on by default. You can begin creating relative email campaigns right away or begin by taking a look at the campaign starter pack that Hearsay is offering.
 
@@ -663,21 +428,8 @@ For assistance with connecting directly with a Facebook team member focused on *
 Some organizations were leveraging a feature that allows admins to review pages on social media channels associated with their firm but were not connected to **Hearsay Social** for monitoring or supervision. This feature is known as **Rogue Social Accounts**.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/9a72c55-deprecate1.png",
-        "deprecate1.png",
-        942,
-        315,
-        "#e0e5e9"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/deprecate1.png" width=50% height=50% align="center">
+
 Facebook [deprecated](https://developers.facebook.com/docs/graph-api/changelog/breaking-changes) the API that allowed **Hearsay** to search profiles and pages in April of 2018. **Hearsay** removed Facebook as a network to filter **Rogue social accounts** in October of 2018.
 
 LinkedIn is deprecating the API that allows **Hearsay** to search profiles in December 2018. **Hearsay** will be removing the ability to filter for LinkedIn rogue accounts on 12/10/2018.
@@ -703,21 +455,8 @@ LinkedIn is deprecating the API that allows **Hearsay** to search profiles in De
 **Hearsay** will be deprecating the browse section of the **Contacts** page on 1/3/2019. We will continue to support the ability to search for existing contacts within this section of the Advisor view and improvements to contact management will be released in 2018.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/53febda-deprecate3.png",
-        "deprecate3.png",
-        675,
-        182,
-        "#f3cccd"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/deprecate3.png" width=50% height=50% align="center">
+
 Please reach out to [support](support@hearsaysystems.com) with any additional questions.
 
 ---
@@ -735,21 +474,8 @@ Facebook deprecated the API that allowed **Hearsay** to display feeds in early 2
 As previously announced, LinkedIn will be deprecating the API that allows **Hearsay** to return a user’s feed no later than 12/31/2018. Hearsay will be removing support for LinkedIn information in **Activity > Feeds** at this time. *In Q1 2019, Hearsay will be removing Activity > Feeds from the advisor view.*
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/4a80b9f-deprecate4.png",
-        "deprecate4.png",
-        952,
-        458,
-        "#f4f7fa"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/deprecate4.png" width=50% height=50% align="center">
+
 Hearsay is currently integrating with LinkedIn APIs that allow organizations to archive and alert on outbound likes and comments’ on a 3rd party (account not connected to Hearsay) post. Organizations who are currently leveraging the pre-review functionality in Feeds can work with their CSM to configure their compliance settings so they can continue to monitor outbound actions on LinkedIn in December 2018.
 
 ## Relate: Outbound MMS
@@ -768,111 +494,32 @@ Hearsay is currently integrating with LinkedIn APIs that allow organizations to 
 
 Users are able to send MMS messages by clicking on the photo icon or the attachment icon.
 
+<img src="images/release-notes/01_2019/relate1.png" width=50% height=50% align="center">
 
-
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/b63e76a-relate1.png",
-        "relate1.png",
-        512,
-        139,
-        "#f8f9f9"
-      ]
-    }
-  ]
-}
-[/block]
  Once selected, the user will be prompted to upload the photo or attachment to Hearsay Relate.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/fa73e90-relate2.png",
-        "relate2.png",
-        679,
-        187,
-        "#fbfbfb"
-      ]
-    }
-  ]
-}
-[/block]
+
+<img src="images/release-notes/01_2019/relate2.png" width=50% height=50% align="center">
+
 Users also have the ability to drag and drop an image or file directly from their computer into the message composer.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/e6576b9-relate3.png",
-        "relate3.png",
-        662,
-        300,
-        "#bfd4eb"
-      ]
-    }
-  ]
-}
-[/block]
+
+<img src="images/release-notes/01_2019/relate3.png" width=50% height=50% align="center">
+
 Users are allowed to attach multiple file formats to text messages including PDF, JPG, PNG and GIF. The maximum file size is up to 2 megabytes (MB).
 
 If a user tries to attach an unsupported file type like a document from Excel or a CSV file, an error message will advise the user to try to attach the file in a different format.
 
+<img src="images/release-notes/01_2019/relate4.png" width=50% height=50% align="center">
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/9bb1b48-relate4.png",
-        "relate4.png",
-        647,
-        179,
-        "#f7f2f3"
-      ]
-    }
-  ]
-}
-[/block]
 When a client is sent an image from the web app, advisors will be able to view the message in their mobile app, as shown below:
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/b6ad01e-relate5.png",
-        "relate5.png",
-        458,
-        750,
-        "#eeeff0"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/relate5.png" width=50% height=50% align="center">
+
 From a client perspective, the same message thread would be reflected as it is below:
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/987f23b-relate6.png",
-        "relate6.png",
-        420,
-        322,
-        "#f7f7f7"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/relate6.png" width=50% height=50% align="center">
+
 For this initial release, Hearsay will only enable this feature for users of web application. We are planning to add this functionality to the mobile app in 2019 as well as exploring other value-added capabilities (such as scheduling an MMS message).
 
 If you are interested in exploring any of these product features or if you have any questions, please reach out to your Customer Success Manager or [support](support@hearsaysystems.com) .
