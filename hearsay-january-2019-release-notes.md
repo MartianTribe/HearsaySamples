@@ -66,41 +66,16 @@ As an admin, you can suggest posts to Instagram just as you would with other soc
 3. Photo aspect ratio should be between 4:5 and 1.91:1 range. For best viewing quality, we recommend you choose between 3 options a) Square - 1:1 ratio b) Portrait - 4:5 ratio c) Landscape - 1.91:1.
 
 #### Publish to Instagram
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/2ae5b82-insta2.png",
-        "insta2.png",
-        604,
-        902,
-        "#ececed"
-      ]
-    }
-  ]
-}
-[/block]
+
+ <img src="images/release-notes/01_2019/insta2.png" width=50% height=50% align="center">
+
 **Advisors** can publish, schedule or request approval of a single photo post to Instagram. The same photo rules apply. 
 
 **Supervision** - Approval request of a single photo post to Instagram 
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/5897c36-insta3.png",
-        "insta3.png",
-        759,
-        868,
-        "#eaeaea"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/insta3.png" width=50% height=50% align="center">
+
 #### Publishing to Instagram from the Mobile App
 
 We are excited to offer Instagram inside the **Hearsay Social Mobile App**. The app offers suggested content as well as the ability to post original content (for which it is uniquely suited). We recommend you promote the **Hearsay Social Mobile App** to your advisors once you are ready to launch Instagram in your program.
@@ -112,103 +87,32 @@ In the **Mobile App**, Advisors will be able to:
 3. Search for Instagram posts in the library.
 
 Please note that the cropping feature is only available in the **Mobile App**.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/36cc73d-insta4.jpeg",
-        "insta4.jpeg",
-        665,
-        1182,
-        "#bab0a6"
-      ]
-    }
-  ]
-}
-[/block]
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/618702f-insta6.jpeg",
-        "insta6.jpeg",
-        500,
-        888,
-        "#574f48"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/insta4.jpeg" width=50% height=50% align="center">
+
+<img src="images/release-notes/01_2019/insta6.jpeg" width=50% height=50% align="center">
+
 ### Supervision
 Admins will be able to supervise requests for profile approvals and alerts on native profile changes. However due to limitations with the **Instagram API**, Hearsay will not be able auto upload profiles to **Instagram**.
 
-**Note**: Due to the auto-upload limitation, we will be unable to monitor profile pictures.
+<p class="callout info">**Note:** Due to the auto-upload limitation, we will be unable to monitor profile pictures.</p>
 
 ### Setup profile fields for Instagram
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/2ff7a2e-instasuper1.png",
-        "instasuper1.png",
-        884,
-        427,
-        "#f9f9f9"
-      ]
-    }
-  ]
-}
-[/block]
+<img src="images/release-notes/01_2019/instasuper1.png" width=50% height=50% align="center">
+
 ### Alerts On Native Profile Changes
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/51b8918-instasuper2.png",
-        "instasuper2.png",
-        760,
-        741,
-        "#f5f5f6"
-      ]
-    }
-  ]
-}
-[/block]
+
+<img src="images/release-notes/01_2019/instasuper2.png" width=50% height=50% align="center">
+
 ### Profile Approval Request
 
+<img src="images/release-notes/01_2019/instasuper3.png" width=50% height=50% align="center">
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/4324882-instasuper3.png",
-        "instasuper3.png",
-        760,
-        788,
-        "#f4f5f6"
-      ]
-    }
-  ]
-}
-[/block]
 ### How do you enable Instagram?
-Our goal with this **Instagram Phase I** release is to enable you to test the feature, create documentation, and prepare your advisor rollout in Q1 2019. Contact your **Customer Success Manager** for access to **Instagram**.
+Our goal with this **Instagram Phase I** release is to enable you to test the feature, create documentation, and prepare your advisor rollout in Q1 2019. Contact your **Customer Success Manager** or [support](support@hearsaysocial.com) with any additional questions or feedback. .
 
-### Upcoming releases
-In January 2019, we will release additional supervision functionality as well as native feed activity.  
-
-Have questions? Please contact your **Customer Success Manager** or [support](support@hearsaysocial.com).
-
-Have additional questions or feedback? Please reach out to your **Customer Success Manager** directly.
 
 ---
 
