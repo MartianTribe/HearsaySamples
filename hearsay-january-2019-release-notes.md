@@ -95,10 +95,9 @@ Please note that the cropping feature is only available in the **Mobile App**.
 ### Supervision
 Admins will be able to supervise requests for profile approvals and alerts on native profile changes. However due to limitations with the **Instagram API**, Hearsay will not be able auto upload profiles to **Instagram**.
 
-<p class="callout info">**Note:** Due to the auto-upload limitation, we will be unable to monitor profile pictures.</p>
+> **Note:** Due to the auto-upload limitation, we will be unable to monitor profile pictures.</p>
 
 ### Setup profile fields for Instagram
-
 
 <img src="images/release-notes/01_2019/instasuper1.png" width=50% height=50% align="center">
 
