@@ -202,7 +202,7 @@ To help users setup their account, Hearsay will pre-fill users’ reply-to email
 Users will be sent a verification email to verify that they have access to the email inbox they have elected to ensure that they receive email replies.
 
 
-<img src="images/release-notes/01_2019/1-1onboarding2.jpeg" width=50% height=50% align="center">
+<img src="images/release-notes/01_2019/1-1onboarding2.png" width=50% height=50% align="center">
 
 *To proceed to the next step, users must click the verification link in the email that they receive.*
 
